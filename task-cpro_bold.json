@@ -54,7 +54,7 @@
   "SoftwareVersions": "syngo MR B19",
   "SpacingBetweenSlices": 2,
   "StationName": "MRC35450",
-  "TaskName": "TODO: full task name for cpro",
+  "TaskName": "CPRO task",
   "TotalReadoutTime": 0.0710717,
   "dcmmeta_reorient_transform": [
     [0.0, -1.0, 0.0, 103.0],
